@@ -21,7 +21,7 @@ module.exports = {
   "OWNER_NAME": "𝐑𝐎𝐖𝐃𝐘 𝐌𝐃 💚",
   "OWNER_NUMBER": "94769615736",
   "AUTO_BIO": "true",
-  "AUTO_TYPING": "false",
+  "AUTO_TYPING": "true",
   "AUTO_RECORDING": "false",
   "WARN_COUNT": "3",
   "AI_MODE": false,
